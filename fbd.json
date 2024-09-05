@@ -1,0 +1,26 @@
+{
+    "data": {
+      "characters": [
+        {
+          "id": "001",
+          "icon": "https://gensh.honeyhunterworld.com/img/ayaka_002.webp?x32851",
+          "name": "Kamisato Ayaka",
+          "name_ru": "Аяка",
+          "rarity": "5",
+          "weapon": "sword",
+          "element": "cryo",
+          "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/cryo_35.webp?x32851"
+        },
+        {
+          "id": "003",
+          "icon": "https://gensh.honeyhunterworld.com/img/ayaka_002.webp?x32851",
+          "name": "Jean",
+          "name_ru": "Джинн",
+          "rarity": "5",
+          "weapon": "sword",
+          "element": "anemo",
+          "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/cryo_35.webp?x32851"
+        }
+      ]
+    }
+  }
