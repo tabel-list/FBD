@@ -20,7 +20,37 @@
           "weapon": "sword",
           "element": "anemo",
           "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/anemo_35.webp?x32851"
-        }
+        },
+        {
+          "id": "005",
+          "icon": "https://gensh.honeyhunterworld.com/img/playerboy_005.webp?x32851",
+          "name": "Traveler",
+          "name_ru": "Путешественник",
+          "rarity": "5",
+          "weapon": "sword",
+          "element": "all",
+          "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/none_35.webp?x32851"
+        },
+        {
+          "id": "006",
+          "icon": "https://gensh.honeyhunterworld.com/img/lisa_006.webp?x32851",
+          "name": "Lisa",
+          "name_ru": "Лиза",
+          "rarity": "4",
+          "weapon": "catalyst",
+          "element": "electro",
+          "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/electro_35.webp?x32851"
+        },
+        {
+          "id": "007",
+          "icon": "https://gensh.honeyhunterworld.com/img/playergirl_007.webp?x32851",
+          "name": "Traveler",
+          "name_ru": "Путешественница",
+          "rarity": "5",
+          "weapon": "sword",
+          "element": "all",
+          "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/none_35.webp?x32851"
+        },
       ]
     }
   }
