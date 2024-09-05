@@ -78,7 +78,7 @@
         "name_ru": "Дилюк",
         "rarity": "5",
         "weapon": "claymore",
-        "element": "piro",
+        "element": "pyro",
         "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/pyro_35.webp?x32851"
       },
       {
@@ -98,7 +98,7 @@
         "name_ru": "Эмбер",
         "rarity": "4",
         "weapon": "bow",
-        "element": "piro",
+        "element": "pyro",
         "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/pyro_35.webp?x32851"
       },
       {
@@ -118,7 +118,7 @@
         "name_ru": "Сян Лин",
         "rarity": "4",
         "weapon": "polearm",
-        "element": "piro",
+        "element": "pyro",
         "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/pyro_35.webp?x32851"
       },
       {
@@ -150,6 +150,76 @@
         "weapon": "polearm",
         "element": "anemo",
         "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/anemo_35.webp?x32851"
+      },
+      {
+        "id": "027",
+        "icon": "https://gensh.honeyhunterworld.com/img/ningguang_027.webp",
+        "name": "Ningguang",
+        "name_ru": "Нин Гуан",
+        "rarity": "4",
+        "weapon": "catalyst",
+        "element": "geo",
+        "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/geo_35.webp?x32851"
+      },
+      {
+        "id": "029",
+        "icon": "https://gensh.honeyhunterworld.com/img/klee_029.webp",
+        "name": "Klee",
+        "name_ru": "Кли",
+        "rarity": "5",
+        "weapon": "catalyst",
+        "element": "pyro",
+        "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/pyro_35.webp?x32851"
+      },
+      {
+        "id": "027",
+        "icon": "https://gensh.honeyhunterworld.com/img/ningguang_027.webp",
+        "name": "Ningguang",
+        "name_ru": "Нин Гуан",
+        "rarity": "4",
+        "weapon": "catalyst",
+        "element": "geo",
+        "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/geo_35.webp?x32851"
+      },
+      {
+        "id": "027",
+        "icon": "https://gensh.honeyhunterworld.com/img/ningguang_027.webp",
+        "name": "Ningguang",
+        "name_ru": "Нин Гуан",
+        "rarity": "4",
+        "weapon": "catalyst",
+        "element": "geo",
+        "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/geo_35.webp?x32851"
+      },
+      {
+        "id": "027",
+        "icon": "https://gensh.honeyhunterworld.com/img/ningguang_027.webp",
+        "name": "Ningguang",
+        "name_ru": "Нин Гуан",
+        "rarity": "4",
+        "weapon": "catalyst",
+        "element": "geo",
+        "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/geo_35.webp?x32851"
+      },
+      {
+        "id": "027",
+        "icon": "https://gensh.honeyhunterworld.com/img/ningguang_027.webp",
+        "name": "Ningguang",
+        "name_ru": "Нин Гуан",
+        "rarity": "4",
+        "weapon": "catalyst",
+        "element": "geo",
+        "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/geo_35.webp?x32851"
+      },
+      {
+        "id": "027",
+        "icon": "https://gensh.honeyhunterworld.com/img/ningguang_027.webp",
+        "name": "Ningguang",
+        "name_ru": "Нин Гуан",
+        "rarity": "4",
+        "weapon": "catalyst",
+        "element": "geo",
+        "element_icon": "https://gensh.honeyhunterworld.com/img/icons/element/geo_35.webp?x32851"
       }
     ]
   }
