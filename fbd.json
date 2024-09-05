@@ -203,7 +203,7 @@
       },
       {
         "id": "034",
-        "icon": "https://gensh.honeyhunterworld.com/img/noelle_034.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/noel_034.webp",
         "name": "Noelle",
         "name_ru": "Ноэль",
         "rarity": "4",
@@ -333,7 +333,7 @@
       },
       {
         "id": "048",
-        "icon": "https://gensh.honeyhunterworld.com/img/yanfei_048.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/feiyan_048.webp",
         "name": "Yanfei",
         "name_ru": "Ян Фей",
         "rarity": "4",
@@ -353,7 +353,7 @@
       },
       {
         "id": "050",
-        "icon": "https://gensh.honeyhunterworld.com/img/thoma_050.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/tohma_050.webp",
         "name": "Thoma",
         "name_ru": "Тома",
         "rarity": "4",
@@ -363,7 +363,7 @@
       },
       {
         "id": "051",
-        "icon": "https://gensh.honeyhunterworld.com/img/thoma_051.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/eula_051.webp",
         "name": "Eula",
         "name_ru": "Эола",
         "rarity": "5",
@@ -373,7 +373,7 @@
       },
       {
         "id": "052",
-        "icon": "https://gensh.honeyhunterworld.com/img/shogun_052.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/shougun_052.webp",
         "name": "Raiden Shogun",
         "name_ru": "Райден",
         "rarity": "5",
@@ -443,7 +443,7 @@
       },
       {
         "id": "059",
-        "icon": "https://gensh.honeyhunterworld.com/img/heizou_059.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/heizo_059.webp",
         "name": "Shikanoin Heizou",
         "name_ru": "Хэйдзо",
         "rarity": "4",
@@ -463,7 +463,7 @@
       },
       {
         "id": "061",
-        "icon": "https://gensh.honeyhunterworld.com/img/kirara_061.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/momoka_061.webp",
         "name": "Kirara",
         "name_ru": "Кирара",
         "rarity": "4",
@@ -633,7 +633,7 @@
       },
       {
         "id": "078",
-        "icon": "https://gensh.honeyhunterworld.com/img/alhaitham_078.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/alhatham_078.webp",
         "name": "Alhaitham",
         "name_ru": "Аль-Хайтам",
         "rarity": "5",
@@ -673,7 +673,7 @@
       },
       {
         "id": "082",
-        "icon": "https://gensh.honeyhunterworld.com/img/baizhu_082.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/baizhuer_082.webp",
         "name": "Baizhu",
         "name_ru": "Бай Чжу",
         "rarity": "5",
@@ -683,7 +683,7 @@
       },
       {
         "id": "083",
-        "icon": "https://gensh.honeyhunterworld.com/img/lynette_083.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/linette_083.webp",
         "name": "Lynette",
         "name_ru": "Линнет",
         "rarity": "4",
@@ -693,7 +693,7 @@
       },
       {
         "id": "084",
-        "icon": "https://gensh.honeyhunterworld.com/img/lyney_084.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/liney_084.webp",
         "name": "Lyney",
         "name_ru": "Линни",
         "rarity": "5",
@@ -783,7 +783,7 @@
       },
       {
         "id": "093",
-        "icon": "https://gensh.honeyhunterworld.com/img/xianyun_093.webp",
+        "icon": "https://gensh.honeyhunterworld.com/img/liuyun_093.webp",
         "name": "Xianyun",
         "name_ru": "Сянь Юнь",
         "rarity": "5",
